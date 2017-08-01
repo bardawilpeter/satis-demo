@@ -1,0 +1,14 @@
+{
+    "name": "pbcms/satis-demo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "peter.bardawil",
+            "email": "peter.bardawil@cleartag.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {"pbcms\\satis-demo\\": ""}
+    },
+}
