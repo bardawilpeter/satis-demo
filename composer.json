@@ -10,5 +10,5 @@
     "require": {},
 	"autoload": {
         "psr-4": {"pbcms\\satis-demo\\": ""}
-    },
+    }
 }
